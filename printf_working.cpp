@@ -14,6 +14,7 @@ int main(){
          print_int(num);
     }
     cin >> stop;
+    return(0);
 
 }
 
